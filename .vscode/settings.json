@@ -17,7 +17,7 @@
     "files.autoSave": "afterDelay",
     "screencastMode.onlyKeyboardShortcuts": true,
     "terminal.integrated.fontSize": 18,
-    "workbench.colorTheme": "One Dark Pro",
+    "workbench.colorTheme": "Monokai",
     "workbench.fontAliasing": "antialiased",
     "workbench.statusBar.visible": true
 }
